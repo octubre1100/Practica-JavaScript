@@ -29,37 +29,7 @@ let tres = 3
 let resultadoMultiplicacion = 10 * 3
 alert("variable resultado de multiplicación= " + resultadoMultiplicacion)
 
-/*nada que ver con tp
-let saldo = 0
-function alerta(id) {
-   console.log("tu saldo", saldo = saldo + 1) ;
-    alert("Se ha depositado con exito, saldo actual " + saldo);
-}
-function alerta2(id) {
-    console.log("tu saldo", saldo = saldo + 10) ;
-     alert("Se ha depositado con exito, saldo actual " + saldo);
- }
- function alerta3(id) {
-    console.log("tu saldo", saldo = saldo + 50) ;
-     alert("Se ha depositado con exito, saldo actual " + saldo);
- }
- function alerta4(id) {
-    console.log("tu saldo", saldo = saldo + 100) ;
-     alert("Se ha depositado con exito, saldo actual " + saldo);
- }
- function alerta5(id) {
-    console.log("tu saldo", saldo = saldo + 1000) ;
-     alert("Se ha depositado con exito, saldo actual " + saldo);
- }
- function promediar(number1, number2, number3) {
-let promedio = (number1 + number2 + number3) / 3 
-return promedio
- }
- function elevarcubo(numero) {
-     let cubo = numero * numero * numero
-     return cubo
- }
-*/
+
 
 
  
