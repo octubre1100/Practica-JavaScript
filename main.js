@@ -7,23 +7,23 @@ function elevarcubo(numero) {
     return cubo
 }
 let saldo = 0
-function depo1(id) {
+function depo1() {
    console.log("tu saldo", saldo = saldo + 1) ;
     alert("Se ha depositado con exito, saldo actual " + saldo);
 }
-function depo10(id) {
+function depo10() {
     console.log("tu saldo", saldo = saldo + 10) ;
      alert("Se ha depositado con exito, saldo actual " + saldo);
  }
- function depo50(id) {
+ function depo50() {
     console.log("tu saldo", saldo = saldo + 50) ;
      alert("Se ha depositado con exito, saldo actual " + saldo);
  }
- function depo100(id) {
+ function depo100() {
     console.log("tu saldo", saldo = saldo + 100) ;
      alert("Se ha depositado con exito, saldo actual " + saldo);
  }
- function depo1000(id) {
+ function depo1000() {
     console.log("tu saldo", saldo = saldo + 1000) ;
      alert("Se ha depositado con exito, saldo actual " + saldo);
  }
